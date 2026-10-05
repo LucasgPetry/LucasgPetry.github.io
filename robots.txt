@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucasgpetry.github.io/sitemap.xml
